@@ -1,0 +1,2 @@
+# chatgpt_api_chatbot_section_03_ex
+Udemyコース「ChatGPT APIを使ってチャットボットを作ろう！」のsection03用Repository（演習）
